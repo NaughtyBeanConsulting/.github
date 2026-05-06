@@ -33,6 +33,8 @@ Core technologies:
 - Syft
 - Grype
 - Trivy
+- 
+Website: https://scutiva.com
 
 Project: https://github.com/NaughtyBeanConsulting/Scutiva
 
@@ -60,6 +62,7 @@ Core technologies:
 - Nginx
 
 Website: https://clickcollect.coffee
+
 Documentation: https://docs.clickcollect.coffee
 
 ### Naughty Bean Coffee
@@ -71,6 +74,7 @@ Naughty Bean Coffee is the brand and commerce side of the ecosystem.
 - Real-world testing ground for ordering, branding, payments, and customer experience decisions
 
 Website: https://www.naughtybean.coffee
+
 E-Commerce Store: https://shop.naughtybean.coffee
 
 ## What we do
